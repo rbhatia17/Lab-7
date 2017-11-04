@@ -13,3 +13,5 @@ To enhance and improve my previous visualization i would like to be more specifi
 4. I would like to analyze more on my perception that are the stock prices and comprehension to it is does the number of records lost change with the stock prices. Relation between the stock prices and the records lost would actually enhance my analysis and will help to do a correct analysis and see the trend. 
 
 
+# Tableau Link
+https://public.tableau.com/profile/rachita.bhatia#!/vizhome/Lab7_43/Dashboard1?publish=yes
