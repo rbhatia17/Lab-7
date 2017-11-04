@@ -12,6 +12,12 @@ To enhance and improve my previous visualization i would like to be more specifi
 3. If there is a Rebuttal i would find that. 
 4. I would like to analyze more on my perception that are the stock prices and comprehension to it is does the number of records lost change with the stock prices. Relation between the stock prices and the records lost would actually enhance my analysis and will help to do a correct analysis and see the trend. 
 
+Rebuttal to my claim:
+
+<img width="952" alt="screen shot 2017-11-04 at 12 04 55 pm" src="https://user-images.githubusercontent.com/32226800/32408621-6f93e4a6-c158-11e7-8eb0-cddcce752c30.png">
+
+This is the stock price for adobe but adobe had a security breach in 2013 and its stock price went up after that so its a rebuttal to my claim. 
+So i would do more analysis over this.
 
 # Tableau Link
 https://public.tableau.com/profile/rachita.bhatia#!/vizhome/Lab7_43/Dashboard1?publish=yes
