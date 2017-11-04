@@ -2,7 +2,7 @@
 
 # Critique of Lab session 3
 
-The lab session i submitted last time showed a visualization for nintendo where they had a security breach in 2011 and the stock price also went down. But we can't be sure that was it only because of the security breach or was there any other reason behind this. The visualization i submitted was a MVP but not the complete product. If i look at it for the first time my reaction would be does this support the claim that financial markets punish security breaches, As there is no visualization to present that there was a security breach which took place at the time of the stock prices going down. 
+The lab session i submitted last time showed a visualization for nintendo where they had a security breach in 2011 and the stock price also went down. But we can't be sure that was it only because of the security breach or was there any other reason behind this. The visualization i submitted was a MVP but not the complete product. If i look at it for the first time my reaction would be does this support the claim that financial markets punish security breaches, As there is no visualization to present that there was a security breach which took place at the time of the stock prices going down. It can also be an exception, we cant say from one company's data that its the trend. To have a trend we need to have analysis for more companies and if the same thing happens in all the comapnies only then we can say its a trend. 
 
 # Enhance my lab session
 
